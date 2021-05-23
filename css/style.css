@@ -1,0 +1,22 @@
+body{
+    background-image: url(taj2.jpg);
+    background-size: cover;
+    color: white;
+}
+.tartalom{
+    background-color: rgba(135, 206, 235, 0.2);
+}
+h2, h4{
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+}
+a{
+    color: lightskyblue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-variant: small-caps;
+}
