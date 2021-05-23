@@ -1,0 +1,14 @@
+body{
+    background-image: url(taj.jpg);
+    background-size: cover;
+    color: white;
+}
+.tartalom{
+    background-color: rgba(135, 206, 235, 0.2);
+}
+h2{
+    text-decoration: underline;
+}
+.kep{
+    width: 60%;
+}
