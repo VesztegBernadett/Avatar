@@ -24,6 +24,12 @@ h2{
     text-decoration: underline;
 }
 #masodik{
-    width: 60%;
+    width: 80%;
     margin: auto;
+}
+#james{
+    box-shadow: 3px 3px 2px skyblue;
+}
+.szoveg{
+    text-align: justify;
 }

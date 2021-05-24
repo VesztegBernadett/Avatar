@@ -9,6 +9,7 @@ body{
 h2{
     text-decoration: underline;
 }
-.kep{
+#kep{
     width: 60%;
+    margin-bottom: 20px;
 }
